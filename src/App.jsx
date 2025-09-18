@@ -8,7 +8,7 @@ export default function App() {
         <div className="box orange"></div>
         <div className="box orange inner-flex">
           <div className="inner pink light"><strong>Calvin Jared</strong></div>
-          <div className="inner pink dark"><strong>M. Quiambao</strong></div>
+          <div className="inner pink dark"><strong>Quiambao</strong></div>
         </div>
         <div className="box orange"></div>
       </div>
