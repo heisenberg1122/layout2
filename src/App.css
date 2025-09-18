@@ -67,6 +67,9 @@ body {
   border: 5px solid #f40105;
   background: #ffb6c1;
   box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .middle {
