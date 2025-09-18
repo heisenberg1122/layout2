@@ -7,8 +7,8 @@ export default function App() {
       <div className="top">
         <div className="box orange"></div>
         <div className="box orange inner-flex">
-          <div className="inner pink light"></div>
-          <div className="inner pink dark"></div>
+          <div className="inner pink light"><strong>Calvin Jared</strong></div>
+          <div className="inner pink dark"><strong>M. Quiambao</strong></div>
         </div>
         <div className="box orange"></div>
       </div>
@@ -25,8 +25,8 @@ export default function App() {
       {/* Bottom Section */}
        <div className="bottom-section">
         <div className="box purple"></div>
-        <div className="box orange bottom-orange"></div>
-        <div className="box orange bottom-orange"></div>
+        <div className="box orange bottom-orange"><strong>C-PCIT9LEC</strong></div>
+        <div className="box orange bottom-orange"><strong>IT-3B</strong></div>
         <div className="box purple"></div>
       </div>
     </div>
